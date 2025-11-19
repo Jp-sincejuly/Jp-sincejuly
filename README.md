@@ -20,7 +20,15 @@
 
 
 
-#### interesado en lenguaje
+#### interested in language:
  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+ #### My goal is to finish my degree, as well as gain experience in the fields I'm interested in.
+ #### You can contact me through LinkedIn.
+
+![Jp-sincejuly's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jp-sincejuly&theme=dark)
+
+
+
 
 
